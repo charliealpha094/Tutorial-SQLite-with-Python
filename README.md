@@ -1,2 +1,2 @@
 # Tutorial-SQLite-with-Python
-A simple and detailed tutorial that I made based on a codemy video course.
+A simple and detailed tutorial about how to create a simple database with the tool SQlite3 using Python3 language. I've made this tutorial based on a codemy video course. I hope you learn something and enjoy it!
